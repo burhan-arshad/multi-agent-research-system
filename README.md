@@ -8,7 +8,7 @@ The project combines **LangChain, Groq, Tavily, BeautifulSoup, and Streamlit** i
 
 ## 🚀 Live Demo
 
-[Open ResearchAI →](https://your-live-demo-url.com)
+[Open ResearchAI →](https://multi-agent-research-system-burhan.streamlit.app/)
 
 ## Overview
 

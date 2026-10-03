@@ -178,8 +178,8 @@ The application provides a dashboard where users can:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd "Multi-agent System"
+git clone https://github.com/burhan-arshad/multi-agent-research-system
+cd "multi-agent-research-system"
 ```
 
 Replace the repository URL with your actual GitHub repository.
